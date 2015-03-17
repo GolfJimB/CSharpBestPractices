@@ -41,7 +41,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ExampleOverride.cs" />
+    <Compile Include="Example Features\ExampleExtensionMethod.cs" />
+    <Compile Include="Example Features\ExampleOverride.cs" />
     <Compile Include="IEntity.cs" />
     <Compile Include="Order.cs" />
     <Compile Include="Program.cs" />

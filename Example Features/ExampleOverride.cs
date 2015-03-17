@@ -5,7 +5,7 @@ using System.Runtime.Remoting.Messaging;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApplication1
+namespace BestPractices
 {
     class ExampleOverrideBase
     {
